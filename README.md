@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abo-zied
-- 👀 I’m interested in Data scinec 
-- 🌱 I’m currently learning data analtics and BigData
+- 👀 I’m interested in Data science 
+- 🌱 I’m currently learning data analytics and BigData
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me at M.Abozied@nu.edu.eg
 
